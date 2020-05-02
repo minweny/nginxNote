@@ -3,8 +3,9 @@
 ## install nginx on ubuntu
 [https://www.linode.com/docs/web-servers/nginx/how-to-install-nginx-ubuntu-18-04/]  
 [https://mediatemple.net/community/products/developer/204405534/install-nginx-on-ubuntu]  
-[https://www.linode.com/docs/web-servers/nginx/nginx-installation-and-basic-setup/] 
+[https://www.linode.com/docs/web-servers/nginx/nginx-installation-and-basic-setup/]   
 [https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/] 
+
 ```
 apt-get update
 apt-get install nginx
